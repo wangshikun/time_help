@@ -2,7 +2,7 @@
   "name": "wang/time",
   "type": "project",
   "description": "处理常用的时间日期,复制thinkphp的",
-  "version": "1.0",
+  "version": "1.0.2",
   "license": "Apache-2.0",
   "require": {
     "php": ">=7.1.0"
