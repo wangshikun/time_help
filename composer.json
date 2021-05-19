@@ -1,14 +1,11 @@
 {
   "name": "wang/time",
-
+  "type": "project",
   "description": "处理常用的时间日期,复制thinkphp的",
-
   "version": "1.0",
-
   "require": {
-    "php": ">=7.1.*"
+    "php": ">=7.1.0"
   },
-
   "autoload": {
     "psr-4": {
       "time_help\\": "src"
